@@ -1,7 +1,9 @@
 # True Color Detection AI
 ### UGRP - Model Test Build Project
 
-__PLEASE DO NOT MODIFY ARBITRARILY!!!!!__
+__⚠️ PLEASE DO NOT MODIFY ARBITRARILY ⚠️__
+<br/>
+<br/>
 _Temporary `README`_
 _It will be revised after building the model_
 
